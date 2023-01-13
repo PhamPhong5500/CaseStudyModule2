@@ -1,0 +1,2 @@
+123,glasses,10000000,32,gucci,1
+456,glasses,100000000,32,gucci,3
